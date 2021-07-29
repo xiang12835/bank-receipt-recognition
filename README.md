@@ -55,6 +55,6 @@ python ocr.py test1.jpg
 4.  新建 Pull Request
 
 
-#### 特技
+#### 链接
 
 1.   [Gitee 链接](https://gitee.com/xiang12835/bank-receipt-recognition.git)
